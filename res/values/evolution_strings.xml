@@ -11,8 +11,8 @@
 
     <!-- Android version screen, build maintainer -->
     <string name="build_maintainer">Build maintainer</string>
-    <string name="build_maintainer_summary" translatable="false">Unknown</string>
-    <string name="build_maintainer_donate_url" translatable="false">https://linktr.ee/joeyhuab</string>
+    <string name="build_maintainer_summary" translatable="false">hxfuxyy & NexeronGTU</string>
+    <string name="build_maintainer_donate_url" translatable="false">https://t.me/vladosdevelopment</string>
 
     <!-- App search preference -->
     <string name="search">Search</string>

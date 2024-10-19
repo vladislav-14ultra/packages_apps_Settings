@@ -23,11 +23,9 @@
 
     <!-- Evolution X logo -->
     <com.android.settingslib.widget.LayoutPreference
-        android:key="evolution_logo"
-        android:layout="@layout/evolution_logo"
-        android:clickable="true"
-        settings:controller="com.android.settings.deviceinfo.firmwareversion.EvolutionXLogoPreferenceController"/>
-
+        android:key="vlad_logo"
+        android:layout="@layout/vlad_logo"
+		
     <!-- Android version -->
     <Preference
         android:key="os_firmware_version"
