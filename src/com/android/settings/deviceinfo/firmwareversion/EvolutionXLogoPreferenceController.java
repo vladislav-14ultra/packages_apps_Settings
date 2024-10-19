@@ -21,7 +21,7 @@ import com.android.settings.core.BasePreferenceController;
 
 public class EvolutionXLogoPreferenceController extends BasePreferenceController {
 
-    private static final Uri INTENT_URI_DATA = Uri.parse("https://evolution-x.org/");
+    private static final Uri INTENT_URI_DATA = Uri.parse("https://t.me/vladosdevelopment");
     private static final String TAG = "EvolutionXLogoPreferenceCtrl";
 
     private final PackageManager mPackageManager;
