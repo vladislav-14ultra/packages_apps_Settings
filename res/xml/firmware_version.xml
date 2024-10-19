@@ -25,6 +25,7 @@
     <com.android.settingslib.widget.LayoutPreference
         android:key="vlad_logo"
         android:layout="@layout/vlad_logo"
+        settings:controller=" com.android.settings.deviceinfo.firmwareve rsion.EvolutionXLogoPreferenceController"/>
 		
     <!-- Android version -->
     <Preference
