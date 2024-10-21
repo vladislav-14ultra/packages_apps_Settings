@@ -13,7 +13,7 @@
     <string name="build_maintainer">Build maintainer</string>
     <string name="build_maintainer_summary" translatable="false">hxfuxyy and NexeronGTU</string>
     <string name="build_maintainer_donate_url" translatable="false">https://t.me/vladosdevelopment</string>
-    <string name="vladosversion" translatable="false">1.0</string>
+    <string name="vladosversion" translatable="false">1.0-private beta</string>
 
 
     <!-- App search preference -->
